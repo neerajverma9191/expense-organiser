@@ -1,4 +1,10 @@
 .modal-backdrop {
   background-image: url('../assets/images/expense.jpg');
 }
+.content-wrap
+{
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
 
